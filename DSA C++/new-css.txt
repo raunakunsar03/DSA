@@ -1,0 +1,6 @@
+cascaded style sheet
+---------------------------
+is a decorator to HTML Elements
+prop:value
+colour:red
+prop
